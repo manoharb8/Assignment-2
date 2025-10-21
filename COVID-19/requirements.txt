@@ -1,0 +1,8 @@
+streamlit>=1.22
+pandas
+requests
+plotly
+statsmodels
+numpy
+seaborn
+matplotlib
